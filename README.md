@@ -24,7 +24,8 @@ Tenha certeza que na linha 13 do arquivo **main.py** a variável "path" está co
 
 Dica: **which tesseract** no terminal para descobrir o path do tesseract no linux e **where tesseract** no windows.
 
-Path default do tesseract no Linux (Ubuntu): r'/usr/bin/tesseract'
+Path default do tesseract no Linux (Ubuntu): r'/usr/bin/tesseract'  
+
 Path default do tesseract no Windows : r'C:\Users\Python\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
 
 Leia os comentários no código (principalmente no **main.py**) para entender melhor o que está acontecendo.
